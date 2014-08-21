@@ -14,6 +14,7 @@ gem	'devise',	'~> 3.3.0'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'aws-sdk', '~> 1.20.0'
 gem 'masonry-rails', '~> 0.2.0'
+gem 'autoprefixer-rails'
 
 
 group	:development,	:test	do 
